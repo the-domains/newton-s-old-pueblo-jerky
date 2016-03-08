@@ -1,0 +1,14 @@
+layout_spectrum: 0.6182795
+typography_spectrum: 0.2789725
+color:
+  saturation: 0.6903287
+  lightness: 0.8226517
+  brandStrength: 0.9719235
+  brandColors:
+    - '#311E16'
+    - '#AC281F'
+    - '#886542'
+    - '#FFFAF2'
+    - '#396E16'
+  rhythmicContrast: 0.2295808
+name: "Newton's Old Pueblo Jerky"
