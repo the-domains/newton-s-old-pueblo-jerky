@@ -1,14 +1,29 @@
+name: "Newton's Old Pueblo Jerky"
+favicon: null
 layout_spectrum: 0.6182795
 typography_spectrum: 0.2789725
+title: The Best Jerky from Jerky Man Mike
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6903287
-  lightness: 0.8226517
-  brandStrength: 0.9719235
   brandColors:
     - '#311E16'
     - '#AC281F'
     - '#886542'
     - '#FFFAF2'
     - '#396E16'
+  brandStrength: 0.9719235
+  lightness: 0.8226517
+  saturation: 0.6903287
   rhythmicContrast: 0.2295808
-name: "Newton's Old Pueblo Jerky"
+purpose: []
